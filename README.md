@@ -6,4 +6,5 @@ Dynamic programming is defined as a computer programming technique where an algo
 ## Longest Common Subsequence(LCS):
 A longest common subsequence (LCS) is defined as the longest subsequence which is common in all given input sequences.'
 
-## Coin change using DP
+## Coin change:
+Using Dynamic programming to solve coin change instead of recursion.
